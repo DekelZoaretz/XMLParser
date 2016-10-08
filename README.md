@@ -1,2 +1,2 @@
 # XMLParser
-This is a java class that parses a XML document
+This is a java class that parses an XML document
